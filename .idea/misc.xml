@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/CSacademy" />
+      <file path="$PROJECT_DIR$/Codechef" />
+      <file path="$PROJECT_DIR$/Codeforces" />
+      <file path="$PROJECT_DIR$/DP" />
+      <file path="$PROJECT_DIR$/GeeksforGeeks" />
+      <file path="$PROJECT_DIR$/Greedy" />
+      <file path="$PROJECT_DIR$/Hackerearth" />
+      <file path="$PROJECT_DIR$/Hackerrank" />
+      <file path="$PROJECT_DIR$/Implementation" />
+      <file path="$PROJECT_DIR$/InterviewBits" />
+      <file path="$PROJECT_DIR$/Maths" />
+      <file path="$PROJECT_DIR$/Others" />
+      <file path="$PROJECT_DIR$/ProjectEuler" />
+      <file path="$PROJECT_DIR$/SPOJ" />
+      <file path="$PROJECT_DIR$/STRING" />
+      <file path="$PROJECT_DIR$/usaco" />
+    </sourceRoots>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/yo.dir/GeeksforGeeks/tt.cpp.o  -o yo 

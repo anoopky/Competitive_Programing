@@ -1,0 +1,3 @@
+/home/oo/CLionProjects/Competitive_Programing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oo/CLionProjects/Competitive_Programing/cmake-build-debug/CMakeFiles/yo.dir
+/home/oo/CLionProjects/Competitive_Programing/cmake-build-debug/CMakeFiles/edit_cache.dir
